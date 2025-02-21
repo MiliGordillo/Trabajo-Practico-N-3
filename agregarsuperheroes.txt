@@ -1,0 +1,15 @@
+[
+  {
+    "id": 4,
+    "nombreSuperheroe": "roxi",
+    "nombreReal": "Lalisa",
+    "nombreSociedad": "rockstar",
+    "edad": 27,
+    "planetaOrigen": "Tierra",
+    "debilidad": "blown speaker",
+    "poder": ["cantar", "tocar la guitarra", "Super fuerza", "Agilidad"],
+    "habilidadEspecial": "super energia",
+    "aliado": ["sunni"],
+    "enemigo": ["bullies"]
+  }
+]
